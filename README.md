@@ -15,6 +15,7 @@
 <|channel>thought....<channel|>思考的内容
 
 =========================================================
+
 下载gemma_filter.py 复制到 你的  custom_nodes 文件夹
 
 重新ComfyUI，就可以使用这个最简单的插件了
