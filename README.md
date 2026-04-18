@@ -25,7 +25,7 @@
 
 ![图片描述](https://github.com/chaoscloudcn/gemma_filter/blob/main/workflow(1).png?raw=true)
 
-这个图片中带有工作流
+这个下载上面的工作流图片中带有ComfyUI工作流
 
 ==========================================================================================
 
